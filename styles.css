@@ -202,10 +202,6 @@ a {
   color: white;
 }
 
-.fav-book-container {
-  z-index: -1;
-}
-
 .extra-info-container {
   margin: 5% auto 0 auto;
   display: flex;
@@ -217,11 +213,6 @@ a {
 .fav-book-container,
 .hobbies-container {
   padding: 0 10%;
-}
-
-.dropdown-menu li {
-  text-align: center;
-  font-size: 1.5rem;
 }
 
 hr {
@@ -427,7 +418,6 @@ hr {
   .nav-section-titles h4 {
     font-size: 1rem;
   }
-
   .bio-container {
     min-width: 100%;
   }
